@@ -5,4 +5,8 @@
 ##### H5 header  
 ###### H6 header  
 
-I have learned the markdown option
+I have learned the markdown option  
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+
+I have learned how to add picture to the markdown file
